@@ -1,0 +1,30 @@
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeyxIYiYoq8byY_GyK45kfjlsaAIQ3v7PPCXIRqR87EzE51ju3&usqp=CAU");
+    margin:0;
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+h1{
+    width:200px;
+    padding:80px;
+    background:#221211;
+    text-align:center;
+    color:white;
+    text-shadow:0 0 4px deeppink,
+                0 0 4px deeppink,
+                0 0 8px deeppink,
+                0 0 8px deeppink,
+                0 0 40px deeppink,
+                0 0 40px deeppink,
+                0 0 40px deeppink,
+                0 0 80px deeppink,
+                0 0 80px deeppink,
+                0 0 80px deeppink;
+    font-family:cursive;
+    font-size:50px;
+    border-radius:10%;
+    box-shadow:0 0 30px 0 white;
+}
